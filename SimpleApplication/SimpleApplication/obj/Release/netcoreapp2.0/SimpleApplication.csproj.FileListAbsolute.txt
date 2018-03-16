@@ -1,0 +1,11 @@
+C:\Users\A01561139\source\repos\SimpleApplication\SimpleApplication\bin\Release\netcoreapp2.0\SimpleApplication.deps.json
+C:\Users\A01561139\source\repos\SimpleApplication\SimpleApplication\bin\Release\netcoreapp2.0\SimpleApplication.runtimeconfig.json
+C:\Users\A01561139\source\repos\SimpleApplication\SimpleApplication\bin\Release\netcoreapp2.0\SimpleApplication.runtimeconfig.dev.json
+C:\Users\A01561139\source\repos\SimpleApplication\SimpleApplication\bin\Release\netcoreapp2.0\SimpleApplication.dll
+C:\Users\A01561139\source\repos\SimpleApplication\SimpleApplication\bin\Release\netcoreapp2.0\SimpleApplication.pdb
+C:\Users\A01561139\source\repos\SimpleApplication\SimpleApplication\obj\Release\netcoreapp2.0\SimpleApplication.csprojResolveAssemblyReference.cache
+C:\Users\A01561139\source\repos\SimpleApplication\SimpleApplication\obj\Release\netcoreapp2.0\SimpleApplication.csproj.CoreCompileInputs.cache
+C:\Users\A01561139\source\repos\SimpleApplication\SimpleApplication\obj\Release\netcoreapp2.0\SimpleApplication.AssemblyInfoInputs.cache
+C:\Users\A01561139\source\repos\SimpleApplication\SimpleApplication\obj\Release\netcoreapp2.0\SimpleApplication.AssemblyInfo.cs
+C:\Users\A01561139\source\repos\SimpleApplication\SimpleApplication\obj\Release\netcoreapp2.0\SimpleApplication.dll
+C:\Users\A01561139\source\repos\SimpleApplication\SimpleApplication\obj\Release\netcoreapp2.0\SimpleApplication.pdb

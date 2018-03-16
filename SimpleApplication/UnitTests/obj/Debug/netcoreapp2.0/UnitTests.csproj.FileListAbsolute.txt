@@ -1,0 +1,16 @@
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\bin\Debug\netcoreapp2.0\SimpleApplication.dll
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\bin\Debug\netcoreapp2.0\SimpleApplication.pdb
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\A01561139\source\repos\SimpleApplication\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
